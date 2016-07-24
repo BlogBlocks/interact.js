@@ -1,0 +1,3 @@
+Under your examples you have a js directory/folder but, you did not include interact.js in the folder
+so several of the examples do not work. I cloned and put interact.js in the js dierectory and all is working well now.
+I have seen complaints on stackoverflow saying the Examples do not work .
